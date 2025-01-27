@@ -1,1 +1,4 @@
-require("ivangen")
+-- Load core configurations
+require("config.lazy")
+require("config.options")
+require("config.keymaps")
